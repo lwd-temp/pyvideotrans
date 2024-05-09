@@ -98,7 +98,7 @@ packaging==23.1
 pandas==1.5.3
 parso==0.8.3
 pefile==2023.2.7
-Pillow==10.0.1
+Pillow==10.3.0
 platformdirs==3.11.0
 plyer==2.1.0
 pooch==1.7.0
